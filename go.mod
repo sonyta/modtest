@@ -1,1 +1,1 @@
-module modtestxx
+module github.com/sonyta/modtest
